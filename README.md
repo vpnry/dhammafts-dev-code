@@ -1,3 +1,3 @@
-Dev code files, behind-the-scenes of this [dhamma full text search app](https://sadhu.herokuapp.com). 
+Dev code files, behind-the-scenes of this [dhamma full text search app](https://vpnry.github.io/fts).
 
-Warning: They files are not yet organized properly.
+Warning: The code files are not yet organized properly.
